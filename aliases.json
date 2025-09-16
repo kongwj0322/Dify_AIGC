@@ -801,13 +801,16 @@
     "地面沉降",
     "地表下沉"
   ],
-  "导致": [
+ "导致": [
     "导致",
     "引起",
     "造成",
     "引发",
     "致使",
-    "诱发"
+    "诱发",
+    "causes",
+    "leads_to",
+    "results_in"
   ],
   "影响": [
     "影响",
@@ -819,18 +822,182 @@
     "包含",
     "包括",
     "涵盖",
-    "涉及"
-  ],
-  "属于": [
-    "属于",
-    "归类于",
-    "归属于"
+    "涉及",
+    "contains",
+    "has_part"
   ],
   "具有": [
     "具有",
     "具备",
-    "拥有",
-    "呈现"
+    "拥有"
+  ],
+  "has_geology": [
+    "has_geology",
+    "地层为",
+    "地质为",
+    "岩性为",
+    "地质条件",
+    "地层类型",
+    "地层组成",
+    "ground_condition",
+    "geological_unit",
+    "lithology_is"
+  ],
+  "has_hydro": [
+    "has_hydro",
+    "水文地质为",
+    "水文条件为",
+    "含水性",
+    "地下水条件",
+    "地下水情势",
+    "承压水条件",
+    "hydrogeology",
+    "aquifer",
+    "groundwater_condition"
+  ],
+  "occurs_at": [
+    "occurs_at",
+    "发生于",
+    "发生在",
+    "出现在",
+    "观测于",
+    "监测于",
+    "happens_at",
+    "takes_place_at",
+    "observed_at"
+  ],
+  "located_in": [
+    "located_in",
+    "位于",
+    "处于",
+    "在…范围内",
+    "在…之内",
+    "地处",
+    "坐落于",
+    "in",
+    "within",
+    "inside"
+  ],
+  "intersects": [
+    "intersects",
+    "相交",
+    "交叉",
+    "叠置",
+    "重叠",
+    "相切",
+    "overlaps",
+    "crosses",
+    "touches"
+  ],
+  "part_of": [
+    "part_of",
+    "属于",
+    "归类于",
+    "归属于",
+    "是…的一部分",
+    "隶属于",
+    "从属于",
+    "is_part_of"
+  ],
+  "exhibits_indicator": [
+    "exhibits_indicator",
+    "has_indicator",
+    "表现为",
+    "体现为",
+    "反映为",
+    "指标为",
+    "显示出",
+    "呈现",
+    "shows_indicator"
+  ],
+  "has_parameter": [
+    "has_parameter",
+    "参数为",
+    "机参有",
+    "配置为",
+    "设置为",
+    "参数设置为",
+    "has_setting",
+    "with_parameter"
+  ],
+  "triggers": [
+    "triggers",
+    "触发",
+    "激发",
+    "触发起",
+    "引动",
+    "initiates",
+    "provokes",
+    "sets_off"
+  ],
+  "precedes": [
+    "precedes",
+    "先于",
+    "早于",
+    "在…之前",
+    "前序",
+    "前置于",
+    "before",
+    "earlier_than"
+  ],
+  "mitigated_by": [
+    "mitigated_by",
+    "被…缓解",
+    "被…控制",
+    "通过…治理",
+    "通过…减小",
+    "可由…缓解",
+    "controlled_by",
+    "reduced_by",
+    "alleviated_by"
+  ],
+  "similar_to": [
+    "similar_to",
+    "类似于",
+    "相似于",
+    "同类",
+    "同类型",
+    "相近",
+    "相仿",
+    "akin_to",
+    "analogous_to"
+  ],
+  "derived_from": [
+    "derived_from",
+    "来源于",
+    "派生自",
+    "基于",
+    "来自",
+    "依据",
+    "sourced_from",
+    "based_on",
+    "originated_from",
+    "prov:wasDerivedFrom"
+  ],
+  "governed_by": [
+    "governed_by",
+    "受…约束",
+    "受控于",
+    "遵循",
+    "符合",
+    "按照…执行",
+    "受…规范约束",
+    "constrained_by",
+    "regulated_by",
+    "subject_to",
+    "dcterms:conformsTo",
+    "conforms_to"
+  ],
+  "recommended": [
+    "recommended",
+    "推荐",
+    "建议",
+    "建议采用",
+    "建议采取",
+    "推荐使用",
+    "推荐方案",
+    "suggested",
+    "advised"
   ],
   "施工过程": [
     "施工过程",
@@ -861,4 +1028,5 @@
     "风险隐患",
     "危险源"
   ]
+
 }
